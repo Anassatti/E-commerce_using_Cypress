@@ -20,6 +20,7 @@ There are couple of ways to install Cypress, personally I chose to install throw
      2. npm install cypress --save-dev
   
   Sucessfull installation will look like 
+  
   ![image](https://github.com/Anassatti/E-commerce_using_Cypress/assets/73906550/c8148b68-2c2d-4681-9593-2e9cfe273bde)
 
 3. To open Cypress run below commond

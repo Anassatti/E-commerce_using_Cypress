@@ -26,7 +26,7 @@ There are couple of ways to install Cypress, personally I chose to install throw
    
       npx cypress open
    
-  Then automatically Cypress will be open
+  Then automatically Cypress will open
 
 ![image](https://github.com/Anassatti/E-commerce_using_Cypress/assets/73906550/2e5744ec-6ca8-4200-aaac-9a105940935e)
 

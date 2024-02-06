@@ -23,7 +23,9 @@ There are couple of ways to install Cypress, personally I chose to install throw
   ![image](https://github.com/Anassatti/E-commerce_using_Cypress/assets/73906550/c8148b68-2c2d-4681-9593-2e9cfe273bde)
 
 3. To open Cypress run below commond
+   
       npx cypress open
+   
   Then automatically Cypress will be open
 
 ![image](https://github.com/Anassatti/E-commerce_using_Cypress/assets/73906550/2e5744ec-6ca8-4200-aaac-9a105940935e)

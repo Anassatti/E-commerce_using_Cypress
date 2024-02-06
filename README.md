@@ -4,7 +4,7 @@
 Cypress testing tools support developers all around the world by making it easier to build and test applications.
 
 
-**Numbers about Cypress**
+**Cypress By Numbers**
 
 The source is Cypress website https://www.cypress.io/
 
